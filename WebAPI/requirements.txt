@@ -110,9 +110,3 @@ wsproto==1.2.0
 yarl==1.9.2
 
 
-"
-// tem que estar no caminho 'source\website' para rodar
-// para ativa lib em ambiente virtual
-// .\venv\Scripts\activate
-//pip install -r requirements.txt
-"
