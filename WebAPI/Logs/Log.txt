@@ -1,0 +1,1 @@
+04/17/2024 01:20:26 AM - WARNING - GravarLog => [ metodo : __main__ ] [ Iniciando Programa ] [ usuario : Sitema ]
