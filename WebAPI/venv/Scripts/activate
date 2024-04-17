@@ -35,7 +35,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="C:\Users\Flavio Martins Jr\Documents\Source\WebAPI\venv"
+=======
+VIRTUAL_ENV="C:\Users\Flavio Martins Jr\Documents\Source\webapi\venv"
+>>>>>>> a23c61896967eba2e6e3a9b062125c03d5a03096
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
